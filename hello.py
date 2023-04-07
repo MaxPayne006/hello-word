@@ -1,3 +1,3 @@
-a = input("Enter you name");
 
-print("Hello "+a);
+
+print("Hello World");
